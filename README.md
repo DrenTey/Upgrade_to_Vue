@@ -1,3 +1,4 @@
+**Upgrade to Vue Project**
 This project focus on upgrading and embodding some of the functionality that VUE3 framework allows and change it to more modern look.
 
 As the starting point, I chose three project done in fCC course for Responsive Web Design:
