@@ -4,6 +4,8 @@ As the starting point, I chose three project done in fCC course for Responsive W
 - Survey Page 
 - Tribute Page
 - Documentation Page
+
+  
 Those three focus on certain functionality that will be nice to mimic:
 - Form's input and submit
 - Responsive sizes of list and subsection
@@ -15,6 +17,7 @@ The original repoes can be found:
 Survey Page
 - https://github.com/DrenTey/CCf-CertProj-01-Survey
 - https://drentey.github.io/CCf-CertProj-01-Survey/
+
 Tribute Page
 - https://github.com/DrenTey/CCf-CertProj-02-TributeP/tree/Archive%231
 - https://drentey.github.io/CCf-CertProj-02-TributeP/
