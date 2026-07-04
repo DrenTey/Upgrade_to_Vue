@@ -19,6 +19,7 @@ For moment I previse up to three phases of each product:
 - Phase#3: Vue 3 Composition API
 
 The files will located in that convention:
+
 Project# > Phase# > Files
 
 The original repoes can be found:
