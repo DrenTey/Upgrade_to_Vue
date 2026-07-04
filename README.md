@@ -24,16 +24,16 @@ The files will located in that convention:
 
 **Original repoes** 
 
-The original repoes can be found:
+The original repoes & deployement can be found:
 
 Survey Page
-- https://github.com/DrenTey/CCf-CertProj-01-Survey
-- https://drentey.github.io/CCf-CertProj-01-Survey/
+- REPO: https://github.com/DrenTey/CCf-CertProj-01-Survey
+- DEPLOY: https://drentey.github.io/CCf-CertProj-01-Survey/
 
 Tribute Page
-- https://github.com/DrenTey/CCf-CertProj-02-TributeP/tree/Archive%231
-- https://drentey.github.io/CCf-CertProj-02-TributeP/
+- REPO: https://github.com/DrenTey/CCf-CertProj-02-TributeP/tree/Archive%231
+- DEPLOY: https://drentey.github.io/CCf-CertProj-02-TributeP/
 
 Documentation page
-- https://github.com/DrenTey/CCf-CertProj-03-DocumentationP
-- https://drentey.github.io/CCf-CertProj-03-DocumentationP/
+- REPO: https://github.com/DrenTey/CCf-CertProj-03-DocumentationP
+- DEPLOY: https://drentey.github.io/CCf-CertProj-03-DocumentationP/
