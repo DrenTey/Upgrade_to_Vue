@@ -22,7 +22,7 @@ The files will located in that convention:
 - Project# > Phase# > Files
 
 
-** Original repoes ** 
+**Original repoes** 
 The original repoes can be found:
 
 Survey Page
