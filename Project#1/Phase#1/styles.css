@@ -1,0 +1,62 @@
+body {
+  width: 100%;
+  height: 100vh;
+  margin: 0;
+  background: #E7E6E6;
+  font-family: Tahoma;
+  font-size: 16px;
+}
+
+h1, p {
+  margin: 1em auto;
+  text-align: center;
+}
+
+form {width:60vw;
+  max-width:500px;
+  min-width:300px;
+  margin: 10px auto;
+  border: 1px solid;
+  background: #E1E1E1;
+  padding-bottom: 1em;
+  }
+
+  fieldset {
+  border: none;
+  padding: 2rem 3;
+  border-bottom: 1px solid #3b3b4f;
+}
+
+fieldset:last-of-type {
+  border-bottom: none;
+}
+
+/*Changing Label into blocks */
+label {display: block;
+margin: 0.5em 0;}
+
+input, select, textarea {
+  margin: 5px 0 0 0;
+  width:100%;
+  min-height:2em;
+  font-size: 15px;
+}
+input {font-family:Arial Black, Calibri;}
+
+input[type="submit"] {
+display: block;
+  width: 60%;
+  margin: 1em auto;
+  height: 2em;
+  font-size: 1.1rem;}
+textarea{
+  font-family: Calibri;
+}
+.inline {
+  width: unset;
+  margin: 0 0.5em 0 0;
+  vertical-align: middle;
+}
+.inline{
+  display: inline; 
+}

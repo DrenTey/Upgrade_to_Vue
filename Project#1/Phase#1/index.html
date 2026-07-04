@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="styles.css">
+    <title>Survey Test for the Project</title>
+  </head>
+  <body>
+      <h1 id="title">Survey Test</h1>
+      <p id="description">We would like to know your opinion about our website</p>
+      <form id="survey-form">
+        <fieldset>
+          <label for="name" id="name-label">Name <input id="name" type="text" required placeholder="Enter your name"></label>
+          <label for="email"id="email-label">Email <input id="email" type="email" required placeholder="Enter your email address"></label>
+          <label for="number" id="number-label">Age (optional) <input id="number" type="number" placeholder="Enter your age" min="15" max="130"></label>
+          </fieldset>
+          <fieldset>
+            <label for="dropdown">How did you get to known our website</label>
+            <select id="dropdown">      <option>(choose your option)</option>
+              <option>I saw it on YouTube channel</option>
+              <option>I read in from one of the news portals</option>
+              </select>
+            <label>Did you like our advertisments?</label>
+            <label for="choice-Yes" class="inline">Yes <input type="radio" name="choice-ads" id="choice-Yes" value="yes" class="inline" checked></label>
+            <label for="choice-No" class="inline">No <input type="radio" name="choice-ads" id="choice-No" value="no" class="inline"></label>
+            <label>Which of these features did you enjoy</label>
+              <label><input type="checkbox" value="Photo Guides" class="inline">Photo Guides</label>
+              <label><input type="checkbox" value="CheatSheet" class="inline">CheatSheet</label>
+              <label><input type="checkbox" value="Drawings" class="inline">Drawings</label>
+          </fieldset>
+          <fieldset>
+            <label for="textarea">What is your opinion about our website <textarea id="textarea" rows="5" cols="40" placeholder="Please, share with us what you think about our website."></textarea></label>
+          </fieldset>
+          <input type="submit" id="submit">
+          </form>
+
+  </body>
+</html>
