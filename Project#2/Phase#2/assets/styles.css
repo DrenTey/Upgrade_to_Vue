@@ -1,0 +1,46 @@
+CSS
+body {background-color:#b9a87976;
+font-family:Tahoma;
+font-size:17px;}
+#img-div {width:70%;
+margin: auto;}
+#image {width:75%;
+max-width:100%;
+margin:auto;
+height:auto;
+border-radius:75px;
+display:block;
+}
+#img-caption {
+  text-align:center;
+}
+#title {display:block;
+font-family: Castellar, Verdana, Tahoma;
+text-align:center;}
+
+#tribute-link {
+
+text-decoration:none;
+font-family:Tahoma;
+border: 2px solid black;
+color:black;
+margin: auto;
+display:block;
+width:35%;}
+
+ul {list-style:square;
+background-color:#fff7e5;
+border-radius: 10px;
+margin-top: 0px;}
+
+#amazonlink {
+  color:#170557;
+font-family:Tahoma;
+color:black;}
+.headinfo {
+background: #493c3c;
+color:#e6dbbc;
+border-radius: 5px;
+  margin: 10px 0 0px 0;
+  padding-left:5px;
+}

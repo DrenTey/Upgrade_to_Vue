@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Gesenius - Tribute page</title>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="assets/styles.css">
+    <!-- Adding Vue -->
+    <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
+  </head>
+  <body>
+    <div id="app">
+    <main id="main">
+      
+      <h1 id="title">{{titleh1}}</h1>
+      <figure id="img-div">
+        <img id="image" :src="imageG">
+        <figcaption id="img-caption">Portrait of Wilhelm Gesenius</figcaption></figure>
+        <section id="tribute-info">
+          <div class="infodiv" >
+            <h2 class="headinfo">Short Biography:</h2>
+            <ul>
+              <li v-for="liX in firstLi">{{liX}}</li>
+            </ul>
+          </div>
+        <div class="infodiv">
+          <h2 class="headinfo">Best known for:</h2>
+          <ul>
+            <li v-for="liX2 in secondLi">{{liX2}}</li>
+            </ul>
+</section>
+      <a href="https://en.wikipedia.org/wiki/Wilhelm_Gesenius" id="tribute-link" value="Gesenius"
+  target="_blank">Get to know more about him on Wikipedia</a>
+    
+
+</main>
+</div>
+
+     <script src="./main.js"></script>
+    <!--Mount App-->
+    <script>
+      const mountedApp = app.mount('#app')
+    </script> 
+    </body>
+</html>
