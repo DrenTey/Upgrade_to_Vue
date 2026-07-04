@@ -13,6 +13,13 @@ Those three focus on certain functionality that will be nice to mimic:
 - Responsive sizes of list and subsection
 - Position of elements and links to sections
 
+For moment I previse up to three phases of each product:
+- Phase#1: Original product
+- Phase#2: (Optional) Vue 3 Options API
+- Phase#3: Vue 3 Composition API
+
+The files will located in that convention:
+Project# > Phase# > Files
 
 The original repoes can be found:
 
